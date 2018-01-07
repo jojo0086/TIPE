@@ -7,7 +7,6 @@ Created on Wed May 24 21:35:50 2017
 """
 
 from random import *
-import matplotlib.pyplot as plt
 import numpy as np
 
 '''stratégies'''
